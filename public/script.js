@@ -39,6 +39,7 @@ const birthdayConfig = {
   ],
   // Personal letter (split into lines for line-by-line reveal)
   letterLines: [
+    "Dear KIRUBAKARAN,",
     "Happy birthday to one of the most amazing people in my life.",
     "Thank you for all the laughter, support, memories,",
     "and unforgettable moments.",
