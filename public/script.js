@@ -8,7 +8,7 @@
 const birthdayConfig = {
   name: "KIRUBAKARAN",
   age: 28,
-  senderName: "Your Name",
+  senderName: "Ermars castar",
   heroMessage: "Today is all about celebrating you.",
   birthdayDate: "2026-07-20",
   backgroundVideo: "assets/birthday-background.mp4",
